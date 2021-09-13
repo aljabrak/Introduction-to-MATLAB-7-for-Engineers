@@ -10,7 +10,7 @@ b = [4, 5, 6];
 c = [7, 8, 9];
 
 C = [a; b; c];
-disp(C)
+disp(C);
 
 %Transpose of Matrix.
 C = C';
@@ -43,4 +43,35 @@ A([1 2],:) = [];
 disp(A);
 C(2,2) = 2;
 %Elememt's value in 2 row and 2 column is set 2.
-disp(C)
+disp(C);
+
+A = [6, 0, 3; 0, 4, 0; 2, 7, 1];
+x = [2, 2, 5, 0, 7];
+disp(x);
+%length(A)
+%Computes the number of elements if A is a vector and the largest value of
+%m and n in m x n matrix A.
+disp(length(A));
+
+%find(x)
+%Computes an array containing the indices of the nonzero elements of the
+%array x.
+disp(find(x));
+
+%[u, v, w] = find(A)
+%Computes the arrays u and v, containing the row and column indices of the
+%nonzero elements of the matrix A, and the array w, containing the values
+%of the nonzero elements. The array w may be omitted.
+[u, v, w] = find(A);
+disp(u);
+disp(v);
+disp(w);
+
+
+%max(A), returns largest element if A is vector, and row vector of largest
+%element if A is a matrix.
+%min(A), returns minimum values.
+%sort(A), returns sorted array in ascending order, and of the same size as A.
+%size(A), returns row vector [m n] containing the size of elements m x n array A.
+%sum(A), Sums the elements in each column of the array A and returns a row
+%vector containing the sums.
