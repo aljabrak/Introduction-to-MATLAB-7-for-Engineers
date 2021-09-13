@@ -9,8 +9,10 @@ William J. Palm III
 - [Vectors.](https://github.com/saudzahirr/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/Arrays/vectors.m)
 - [Matrices.](https://github.com/saudzahirr/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/Arrays/matrices.m)
 - Mutlti-dimensional Arrays.
-- Matrix and Polynomial Operations.
-- Cell and Structure Arrays.
+- Matrix Operations.
+- Polynomial Operations.
+- Cell Arrays.
+- Structure Arrays.
 ## Chapter 3: Functions and Files.
 ## Chapter 4: Programming with MATLAB.
 ## Chapter 5: Advanced plotting and Model Building.
