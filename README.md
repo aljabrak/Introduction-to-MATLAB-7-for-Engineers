@@ -8,7 +8,7 @@ William J. Palm III
 ## Chapter 2: Numeric, Cell, and Structure Arrays.
 - [Vectors.](https://github.com/saudzahirr/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/Arrays/vectors.m)
 - [Matrices.](https://github.com/saudzahirr/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/Arrays/matrices.m)
-- Mutlti-dimensional Arrays.
+- [Mutlti-dimensional Arrays.](https://github.com/aljabrak/Introduction-to-MATLAB-7-for-Engineers/tree/main/Chapter%202/Multidimensional%20Arrays)
 - Matrix Operations.
 - Polynomial Operations.
 - Cell Arrays.
