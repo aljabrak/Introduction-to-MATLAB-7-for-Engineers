@@ -1,42 +1,41 @@
 %Matrix Operation.
 
-%Scalar Addition.
+% Scalar Addition.
+A = [2, 3; -7, 8];
 C = A + 2;
 disp(C);
 
-%Scalar Subtraction.
+% Scalar Subtraction.
 C = B - 2;
-disp(C)
+disp(C);
 
-%Scalar Multiplication.
-A = [2, 3; -7, 8];
+% Scalar Multiplication.
 disp(3*A);
 
-%Scalar Division.
-A = [2, 3; -7, 8];
+% Scalar Division.
 disp(A/3);
 
-%Matrix Addition.
+% Matrix Addition.
 B = [3, 5; 9, 2];
 C = A+B;
 disp(C);
 
-%Matrix Subtraction.
+% Matrix Subtraction.
 C = A-B;
 disp(C);
 
-%Matrix Multiplication.
+% Matrix Multiplication.
 C = A*B;
 disp(C);
 
-%Matrix  Right Division.
+% Matrix  Right Division.
 C = A./B;
 disp(C);
 
-%Matrix Left Division.
+% Matrix Left Division.
 C = A.\B;
 disp(C);
 
-%Matrix Exponent.
+% Matrix Exponent.
 C = A.^B;
 disp(C);
