@@ -6,7 +6,7 @@ C = A + 2;
 disp(C);
 
 % Scalar Subtraction.
-C = B - 2;
+C = A - 2;
 disp(C);
 
 % Scalar Multiplication.
