@@ -11,6 +11,7 @@ William J. Palm III
 - [Mutlti-dimensional Arrays.](https://github.com/aljabrak/Introduction-to-MATLAB-7-for-Engineers/tree/main/Chapter%202/Multidimensional%20Arrays)
 - [Vector Operations.](https://github.com/aljabrak/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/vector_operation.m)
 - [Matrix Operations.](https://github.com/aljabrak/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/matrix_operation.m)
+- [Special Matrices.](https://github.com/aljabrak/Introduction-to-MATLAB-7-for-Engineers/blob/main/Chapter%202/special_matrices.m)
 - Polynomial Operations.
 - Cell Arrays.
 - Structure Arrays.
