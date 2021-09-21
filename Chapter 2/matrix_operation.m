@@ -1,4 +1,4 @@
-%Matrix Operation.
+% Matrix Operation.
 
 % Scalar Addition.
 A = [2, 3; -7, 8];
